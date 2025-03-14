@@ -8,3 +8,5 @@ List of practicals are as follows:
 3. Write a program in java based on basic synatical constructs of java like: a) looping statements, b) decision making statements.
 4. Write a program in java on: a) use of single dimensional array, b) use of multidimensional array.
 5. Write a program in java to demonstrate following operations: a) single inheritance, b) multilevel inheritance. 
+6. Write a program for method overloading and contructor overloading.
+7. Write a program to demonstrate: a) use of implementing interfaces, b) use of extending interfaces.
