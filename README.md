@@ -1,7 +1,6 @@
 # java
 a repo for my college practicals <br>
-I am learning version control and, to practice it i decided to make repo related to my college practicals, so that how this came to be
-List of practicals are as follows:
+List of practicals are as follows: <br>
 0. Introduction to java programming lab.
 1. Installation of JDK and write a simple program to diplay "hello world".
 2. Write a program in java program based on basic operators and expression.
@@ -10,3 +9,4 @@ List of practicals are as follows:
 5. Write a program in java to demonstrate following operations: a) single inheritance, b) multilevel inheritance. 
 6. Write a program for method overloading and contructor overloading.
 7. Write a program to demonstrate: a) use of implementing interfaces, b) use of extending interfaces.
+8. Write a program in java to implement user defined packages in terms of creating a new package.
