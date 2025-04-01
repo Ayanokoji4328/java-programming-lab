@@ -1,5 +1,4 @@
 # java
-a repo for my college practicals <br>
 List of practicals are as follows: <br>
 0. Introduction to java programming lab.
 1. Installation of JDK and write a simple program to diplay "hello world".
@@ -10,3 +9,4 @@ List of practicals are as follows: <br>
 6. Write a program for method overloading and contructor overloading.
 7. Write a program to demonstrate: a) use of implementing interfaces, b) use of extending interfaces.
 8. Write a program in java to implement user defined packages in terms of creating a new package.
+Link for outputs: https://drive.google.com/drive/folders/1L5kvoQsd1zbzR8NnsM-ZsSA_s2ZdAW-g?usp=sharing
